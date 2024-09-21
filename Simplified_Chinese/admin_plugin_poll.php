@@ -2,12 +2,12 @@
 
 $lang_admin_plugin_poll = array(
 
-'Plugin title'           => '投票',
+'Plugin title'          => '投票',
 'Explanation 1'         => '该插件增加了投票选项。',
 'Explanation 2'         => '您可以开启或关闭投票功能，并根据需要调整其他参数。',
-'Form title'             => '选项',
-'Show text button'       => '保存更改',
-'Plugin redirect'        => '选项已更新。正在重定向 …',
+'Form title'            => '选项',
+'Show text button'      => '保存更改',
+'Plugin redirect'       => '选项已更新。正在重定向 …',
 'Legend1'               => '全局选项',
 'Legend3'               => '其他选项',
 'Q1'                    => '在此论坛中使用投票。',

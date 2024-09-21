@@ -28,12 +28,12 @@ $lang_help = array(
 'This help page'           => '本帮助页面',
 'My email address'         => '我的电子邮件地址',
 'Images info'              => '如果您想显示图片，可以使用 img 标签。在开放标签后的 "=" 符号中出现的文本用于 alt 属性，应尽可能包含。',
-'FluxBB bbcode test'       => 'FluxBB bbcode 测试',
+'FluxBB bbcode test'       => 'FluxBB bbcode test',
 
 'Test topic'               => '测试主题',
-'Test post'                 => '测试帖子',
-'Test forum'                => '测试论坛',
-'Test user'                 => '测试用户',
+'Test post'                => '测试帖子',
+'Test forum'               => '测试论坛',
+'Test user'                => '测试用户',
 
 'Quotes'                   => '引用',
 'Quotes info'              => '如果你想引用某人，你应该使用 quote 标签。',
@@ -44,7 +44,7 @@ $lang_help = array(
 
 'Code'                     => '代码',
 'Code info'                => '当显示源代码时，你应该确保使用 code 标签。使用 code 标签显示的文本将使用等宽字体，并且不会受到其他标签的影响。',
-'Code text'                 => '这是一些代码。',
+'Code text'                => '这是一些代码。',
 'produces code box'        => '显示为这样的代码框：',
 
 'Nested tags'              => '嵌套标签',

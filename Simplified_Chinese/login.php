@@ -4,10 +4,10 @@
 $lang_login = array(
 
 // 其他
-'Login errors'                => '登录错误',
+'Login errors'               => '登录错误',
 'Login errors info'          => '在您登录之前，需要纠正以下错误：',
 'Wrong user/pass'            => '用户名和/或密码错误。',
-'Forgotten pass'            => '忘记密码？',
+'Forgotten pass'             => '忘记密码？',
 'Login redirect'             => '成功登录。正在重定向 …',
 'Logout redirect'            => '已登出。正在重定向 …',
 'No email match'             => '没有注册该电子邮件地址的用户',

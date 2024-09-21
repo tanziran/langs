@@ -4,7 +4,7 @@
 $lang_register = array(
 
 // 其他
-'No new regs'                => '本论坛目前不接受新用户注册。',
+'No new regs'               => '本论坛目前不接受新用户注册。',
 'Reg cancel redirect'       => '注册已取消。正在重定向 …',
 'Forum rules'               => '论坛规则',
 'Rules legend'              => '为了注册，您必须同意以下内容',
@@ -16,7 +16,7 @@ $lang_register = array(
 // 表单验证（其中一些也在 post.php 中使用）
 'Registration errors'       => '注册错误',
 'Registration errors info'  => '在您注册之前，需要纠正以下错误：',
-'Username censor'          => '您输入的用户名包含一个或多个被审查的词语。请选择一个不同的用户名。',
+'Username censor'           => '您输入的用户名包含一个或多个被审查的词语。请选择一个不同的用户名。',
 'Username dupe 1'           => '已有用户注册了用户名',
 'Username dupe 2'           => '您输入的用户名太相似。用户名必须至少与现有用户名在一处字母或数字上不同。请选择一个不同的用户名。',
 'Email not match'           => '电子邮件地址不匹配。',

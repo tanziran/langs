@@ -3,7 +3,7 @@
 // 在 security.php 中使用的语言定义
 $lang_sec = array(
 
-'Not robot'      => '我不是机器人',
+'Not robot'     => '我不是机器人',
 'Enable JS'     => '启用 JavaScript 并更新此页面。',
 
 'Error 1'       => '表单数据部分获取失败。',
@@ -18,9 +18,9 @@ $lang_sec = array(
 'Captcha legend' => '你是人类吗？',
 'Captcha text'   => '请证明您是人类。',
 
-'Idx='   => array('=', '等于', '是'),
+'Idx='  => array('=', '等于', '是'),
 'Idx-'  => array('-', '减', '减去'),
-'Idx+'  => array('+', '加', '加号'),
+'Idx+'  => array('+', '加', '加上'),
 'Idx*'  => array('*', '乘', 'х', '乘以'),
 'Idx/'  => array('/', '除以'),
 'Idx0'  => array('0', '零'),

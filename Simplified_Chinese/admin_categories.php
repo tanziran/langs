@@ -10,10 +10,10 @@ $lang_admin_categories = array(
 'Confirm delete subhead'      => '确认删除类别',
 'Confirm delete info'         => '您确定要删除类别<strong>%s</strong>吗？',
 'Delete category warn'        => '<strong>警告！</strong>删除类别将删除该类别中的所有论坛和帖子（如果有的话）！',
-'Must enter integer message'   => '位置必须是正整数。',
-'Categories updated redirect'  => '类别已更新。正在重定向…',
-'Add categories head'        => '添加类别',
-'Add categories subhead'     => '添加类别',
+'Must enter integer message'  => '位置必须是正整数。',
+'Categories updated redirect' => '类别已更新。正在重定向…',
+'Add categories head'         => '添加类别',
+'Add categories subhead'      => '添加类别',
 'Add category label'          => '添加新类别',
 'Add new submit'              => '添加新类别',
 'Add category help'           => '您想要添加的新类别名称。您可以稍后编辑类别名称（见下文）。转到%s以在新类别中添加论坛。',
@@ -24,6 +24,6 @@ $lang_admin_categories = array(
 'Edit categories head'        => '编辑类别',
 'Edit categories subhead'     => '编辑类别',
 'Category position label'     => '位置',
-'Category name label'        => '名称',
+'Category name label'         => '名称',
 
 );
