@@ -1,12 +1,12 @@
-标题: 欢迎光临 <board_title>!
+Subject: 欢迎来到 <board_title>！
 
-感谢您在 <base_url> 注册。以下是您的账号细节：
+感谢您在 <base_url> 的论坛注册。您的账户详情如下：
 
-用户名: <username>
-密码: <password>
+用户名：<username>
+密码：<password>
 
-请通过页面 <login_url> 登录以激活您的账号。
+请登录 <login_url> 以激活账户。
 
 --
-<board_mailer>邮件服务
-（请勿回复该邮件）
+<board_mailer> 邮件服务
+（请不要回复此消息）

@@ -1,11 +1,11 @@
-标题: 论坛主题 '<topic_subject>' 的回复
+主题：回复主题：'<topic_subject>'
 
-<replier> 已回复了您订阅的主题 '<topic_subject>' 。也许已出现了更多新的回复，但在您再次访问论坛前，本邮件将是您会收到的唯一一次通知。
+<replier> 回复了您订阅的主题 '<topic_subject>'。可能还有更多新的回复，但这是您在下次访问论坛之前将收到的唯一通知。
 
-该回复位于 <post_url>
+帖子位于 <post_url>
 
-要取消对该主题的订阅请点击链接 <unsubscribe_url>
+您可以通过访问 <unsubscribe_url> 并点击页面底部的“取消订阅”链接来取消订阅。
 
 --
-<board_mailer>邮件服务
-（请勿回复该邮件）
+<board_mailer> 邮件服务
+（请不要回复此消息）

@@ -1,9 +1,9 @@
-标题: 举报(<forum_id>) - '<topic_subject>'
+主题：报告(<forum_id>) - '<topic_subject>'
 
-用户 '<username>' 举报了以下内容: <post_url>
+用户 '<username>' 报告了以下消息：<post_url>
 
-理由: <reason>
+原因：<reason>
 
 --
-<board_mailer>邮件服务
-（请勿回复该邮件）
+<board_mailer> 邮件服务
+（请不要回复此消息）
