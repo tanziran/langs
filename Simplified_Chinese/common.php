@@ -143,7 +143,7 @@ $lang_common = array(
 'Unstick topic'                =>  '取消置顶主题',
 'Stick topic'                  =>  '置顶主题',
 'Moderate forum'               =>  '版主论坛',
-'Powered by'                   =>  '%s <br />Powered by &#x56;&#x69;&#x73;&#x6D;&#x61;&#x6E; & Simplified_Chinese Language Pack by tanziran',
+'Powered by' => 'Powered by %s<br />Modified by &#x56;&#x69;&#x73;&#x6D;&#x61;&#x6E; - Simplified Chinese Language Pack by tanziran',
 
 // 调试信息
 'Debug table'                  =>  '调试信息',
